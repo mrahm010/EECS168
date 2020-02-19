@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      mrahman
+HostName                       bender.engr.ucr.edu
+ProcessIdentifier              41219
+ProcessCreationTime_UTC        1582065119
+ProcessCreationTime_Readable   Tue 18 Feb 2020 02:31:59 PM PST PST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/cemaj/mrahman/eecs168/mylibrary/1bitfulladder/layout/layout.oa.cdslck
+TimeEditLocked                 Tue 18 Feb 2020 02:34:28 PM PST PST
